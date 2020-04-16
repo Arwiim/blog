@@ -1,2 +1,2 @@
-# blog
-Just a simple blog
+# myblog
+Proyecto Blog Personal Curso Django
